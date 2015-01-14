@@ -1,0 +1,8 @@
+com/github/popemay/config/BeanConfig.class
+com/github/popemay/repository/model/User.class
+com/github/popemay/controller/model/UserRequest.class
+com/github/popemay/repository/UserRepository.class
+com/github/popemay/controller/UserController.class
+com/github/popemay/service/UserService.class
+com/github/popemay/controller/model/ChangePassRequest.class
+com/github/popemay/service/Password.class
